@@ -2,7 +2,7 @@
 
 > An end-to-end MLOps system that turns video or audio into per-sentence emotion predictions. Built for a TV production client who wanted to understand which parts of episodes engage viewers emotionally.
 
-![Diagram](./sentify_advert_4 .html)
+<img src="./sentify_advert_4.html" width="600" alt="Advert screen for Sentify.">
 
 **Programme:** Applied Data Science & AI, Breda University of Applied Sciences
 
