@@ -37,8 +37,6 @@ The full system is:
 - **Retrainable** automatically on a weekly schedule and on user-feedback triggers
 
 
-![Sentify_avert_screen](sentify_advert_4.html)
-
 ### High-level pipeline
 
 ```
