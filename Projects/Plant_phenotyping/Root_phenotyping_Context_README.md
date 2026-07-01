@@ -10,6 +10,8 @@ This project automates the inoculation of plant root tips growing on petri dishe
 
 The system bridges computer vision, coordinate geometry, and robot control into a single deployable pipeline.
 
+![pybullet simulation](PID_controller.gif)
+
 ---
 
 ## Business Objective
@@ -34,6 +36,11 @@ I was responsible for the full development of this pipeline, including:
 - **Full pipeline integration**  connecting all components into a single autonomous loop: image capture → ML inference → tip detection → coordinate transform → robot control → inoculation → return home
 
 ---
+
+
+![predicted root tips](task_5_inference_overlay.png)
+Predicted root tips (green) overlaid on the original image of a petri dish.
+
 
 ## How It Works
 
@@ -96,6 +103,8 @@ A PPO agent was trained for 1 million timesteps as an alternative approach. Whil
 | Total pipeline time | 15–30 seconds |
 
 ---
+
+
 
 ## Repository Structure
 
